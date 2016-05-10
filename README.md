@@ -32,6 +32,8 @@
 ---
 ## 目标
 
+[![Join the chat at https://gitter.im/lhzbxx/WeMenu](https://badges.gitter.im/lhzbxx/WeMenu.svg)](https://gitter.im/lhzbxx/WeMenu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 + 基于微信平台的线下餐馆的菜单系统。
 + 可完成预约、选购、支付和评价一条龙服务。
 + 提供公开API以对接硬件系统。
