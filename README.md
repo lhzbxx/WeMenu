@@ -14,10 +14,10 @@
 <p align="center">基于微信平台的线下餐馆的菜单系统，完成预约、选购、支付和评价，并提供公共API。</p>
 <p align="center">
   <a href="https://github.com/lhzbxx/WeMenu/issues">
-    <img src="https://img.shields.io/github/issues/wemenu/follow3.svg" alt="">
+    <img src="https://img.shields.io/github/issues/lhzbxx/wemenu.svg" alt="">
   </a>
   <a href="https://github.com/lhzbxx/WeMenu/releases">
-    <img src="https://img.shields.io/github/release/wemenu/follow3.svg" alt="">
+    <img src="https://img.shields.io/github/release/lhzbxx/wemenu.svg" alt="">
   </a>
   <a href="https://github.com/lhzbxx/WeMenu/releases">
     <img src="https://img.shields.io/github/downloads/lhzbxx/wemenu/total.svg" alt="">
